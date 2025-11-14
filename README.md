@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi folks! 👋 I'm Fernando!
 
-<!--
-**FernandoNoguera/FernandoNoguera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate full-stack developer from Chile 🇨🇱
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fernando's GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=fernandonogueravaldes&show_icons=true&theme=radical"
+        alt="Fernando's GitHub stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonogueravaldes&layout=compact&theme=radical"
+        alt="Most used languages"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Things I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,deno,python,django,postgresql,mongodb,git,github,html,css,figma" />
+</p>
+
+---
+
+## What I'm into right now
+
+- 🚀 Building dashboards, APIs and automation for real-time data.
+- 🧠 Learning more about clean architecture, DDD and scalable frontends.
+- 🛠️ Playing with Deno, Next.js, Docker and anything that makes dev life easier.
+
+---
+
+## Find me around the web 🌎
+
+- 💼 Sharing professional updates on [LinkedIn](https://www.linkedin.com/in/TU-LINKEDIN)
+- 🧑‍💻 Pushing random experiments and side projects on [GitHub](https://github.com/fernandonogueravaldes)
+- 📚 Keeping track of my readings on [Goodreads](https://www.goodreads.com/TU-GOODREADS)
+- 🎧 Listening to music while coding on [Apple Music](https://music.apple.com/profile/TU-APPLE-MUSIC)
+
+---
+
+> ✨ _“Shipping small improvements every day beats waiting for the perfect rewrite.”_
