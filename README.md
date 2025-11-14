@@ -1,6 +1,8 @@
 # Hi folks! 👋 I'm Fernando!
 
-A passionate full-stack developer from Chile 🇨🇱
+Full-stack developer with solid experience in Python and JavaScript, focused on building scalable and efficient applications. I’m comfortable working with container technologies such as Docker and cloud providers like AWS, GCP and Azure, and I’ve contributed to several projects centered around cloud-based services and real-time solutions.
+
+Passionate about continuous improvement and learning new technologies, I strive to stay up to date with the latest trends in the industry. My goal is to deliver high-quality, maintainable solutions and successfully tackle the challenges of today’s technological landscape.
 
 ---
 
@@ -28,7 +30,7 @@ A passionate full-stack developer from Chile 🇨🇱
 ## Things I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,deno,python,django,postgresql,mongodb,git,github,gitlab,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,bash,html,css,sass,bootstrap,react,nextjs,angular,vue,redux,vite,wordpress,nodejs,deno,django,flask,fastapi,graphql,nginx,postgresql,mysql,sqlite,mongodb,redis,docker,aws,gcp,azure,heroku,linux,debian,ubuntu,npm,pnpm,yarn,git,github,postman,prisma,vscode,vim,pycharm,md,firebase,figma,discord" />
 </p>
 
 ---
