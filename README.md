@@ -47,6 +47,8 @@ Passionate about continuous improvement and learning new technologies, I strive 
 
 - 💼 Sharing professional updates on [LinkedIn](https://www.linkedin.com/in/fernandonoguerav)
 - 🧑‍💻 Pushing random experiments and side projects on [GitHub](https://github.com/FernandoNoguera)
+- 🦊 Hosting private and work repositories on [GitLab](https://gitlab.com/FernandoNoguera)
+
 
 ---
 
