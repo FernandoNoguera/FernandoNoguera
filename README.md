@@ -10,13 +10,13 @@ A passionate full-stack developer from Chile 🇨🇱
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=fernandonogueravaldes&show_icons=true&theme=radical"
+        src="https://github-readme-stats.vercel.app/api?username=FernandoNoguera&show_icons=true&theme=radical"
         alt="Fernando's GitHub stats"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonogueravaldes&layout=compact&theme=radical"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoNoguera&layout=compact&theme=radical"
         alt="Most used languages"
       />
     </td>
@@ -43,10 +43,8 @@ A passionate full-stack developer from Chile 🇨🇱
 
 ## Find me around the web 🌎
 
-- 💼 Sharing professional updates on [LinkedIn](https://www.linkedin.com/in/TU-LINKEDIN)
-- 🧑‍💻 Pushing random experiments and side projects on [GitHub](https://github.com/fernandonogueravaldes)
-- 📚 Keeping track of my readings on [Goodreads](https://www.goodreads.com/TU-GOODREADS)
-- 🎧 Listening to music while coding on [Apple Music](https://music.apple.com/profile/TU-APPLE-MUSIC)
+- 💼 Sharing professional updates on [LinkedIn](https://www.linkedin.com/in/fernandonoguerav)
+- 🧑‍💻 Pushing random experiments and side projects on [GitHub](https://github.com/FernandoNoguera)
 
 ---
 
