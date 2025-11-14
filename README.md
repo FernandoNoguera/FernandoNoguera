@@ -28,7 +28,7 @@ A passionate full-stack developer from Chile 🇨🇱
 ## Things I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,deno,python,django,postgresql,mongodb,git,github,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,deno,python,django,postgresql,mongodb,git,github,gitlab,html,css,figma" />
 </p>
 
 ---
