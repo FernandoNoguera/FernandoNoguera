@@ -1,6 +1,6 @@
 # Hi folks! 👋 I'm Fernando!
 
-Full-stack developer with solid experience in Python and JavaScript, focused on building scalable and efficient applications. I’m comfortable working with container technologies such as Docker and cloud providers like AWS, GCP and Azure, and I’ve contributed to several projects centered around cloud-based services and real-time solutions.
+Senior full-stack developer with solid experience in Python and JavaScript, focused on building scalable and efficient applications. I’m comfortable working with container technologies such as Docker and cloud providers like AWS, GCP and Azure, and I’ve contributed to several projects centered around cloud-based services and real-time solutions.
 
 Passionate about continuous improvement and learning new technologies, I strive to stay up to date with the latest trends in the industry. My goal is to deliver high-quality, maintainable solutions and successfully tackle the challenges of today’s technological landscape.
 
